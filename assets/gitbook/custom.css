@@ -1,6 +1,23 @@
----
----
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
 
+body {
+    font-family: 'Pretendard-Regular', system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.book {
+    font-family: 'Pretendard-Regular', system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.book.font-family-pretendard {
+    font-family: 'Pretendard-Regular', system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* --- 이하 기존 CSS --- */
 .book-body {
     overflow-y: scroll;
 }
@@ -16,7 +33,6 @@
 }
 
 .book-body .body-inner {
-    /* position: absolute; */
     margin-top: 50px;
     min-height: calc(100% - 50px);
 }
@@ -25,7 +41,7 @@
     .book-body .body-inner {
         position: absolute;
         margin-top: 50px;
-        min-height: calc(100% - 50px)
+        min-height: calc(100% - 50px);
     }
 }
 
@@ -76,7 +92,6 @@
 }
 
 ::-webkit-scrollbar-track-piece {
-    /* background-color: rgba(125, 125, 125, 0.2); */
     -webkit-border-radius: 6px;
 }
 
@@ -93,7 +108,6 @@
 }
 
 /* Style for search page on mobile screens */
-
 #book-search-input-link {
     padding: 6px;
     background: 0 0;
@@ -154,9 +168,7 @@
     color: inherit;
 }
 
-
 /* Custom font settings */
-
 .book.font-family-0 {
     font-family: Georgia, serif;
 }
@@ -165,13 +177,11 @@
 }
 
 /* Render wide tables */
-
 .table-wrapper {
     overflow-x: scroll;
 }
 
 /* Tips, warnings, and dangers */
-
 .markdown-section blockquote.block-tip {
     border-color: var(--c-tip);
     background-color: var(--c-tip-bg);
@@ -259,5 +269,5 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --c-danger-bg: #ffe0e0;
     --c-danger-text: #600;
     --c-danger-title: #c00;
-    --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    --font-family: 'Pretendard-Regular', system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
