@@ -1,9 +1,7 @@
 ---
   title: 메인 메뉴
-  author: Tao He
-  date: 2022-05-24
-  category: Jekyll
-  layout: post
+  layout: home
+  permalink: /
   cover: /assets/jekyll-gitbook/main.jpg
 ---
 
