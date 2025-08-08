@@ -2,7 +2,7 @@
 title: 선수 계약 및 트레이드에 관한 규정
 author: Tao He
 date: 2019-04-28
-category: Jekyll
+category: RULES
 layout: post
 ---
 
