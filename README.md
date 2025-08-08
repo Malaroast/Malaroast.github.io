@@ -2,7 +2,7 @@
   title: 메인 메뉴
   layout: home
   permalink: /
-  cover: /assets/rbcl (3).png
+  cover: /assets/rbcl (4).png
 ---
 
 ## 이 공간은 무엇인가요?
