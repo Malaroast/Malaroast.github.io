@@ -1,5 +1,5 @@
 ---
-  title: 메인 메뉴
+  title: RBCL 규정집 홈페이지에 오신것을 환영합니다.
   layout: home
   permalink: /
   cover: /assets/rbcl (4).png
