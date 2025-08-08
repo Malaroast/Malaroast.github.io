@@ -1,67 +1,28 @@
 ---
-title: Tips, Warnings, and Dangers
+title: 퓨처스리그에 관한 규정
 author: Tao He
 date: 2022-06-30
 category: Jekyll
 layout: post
 ---
+10.01 퓨처스리그는 리그 내 신인 육성과 선수들의 경험을 얻기 위한 목적으로만 운영되어야한다.
 
-This jekyll-theme supports tips, warnings, and dangers blocks and the style is referred
-from [the discord.js website][1].
+10.02 퓨처스리그의 참여구단은 각 구단의 직속 2군 구단과 이사회가 지정하는 구단을 참여 대상으로 지정한다.
 
-You could have the following [markdown attributes (supported by kramdown)][2]:
+10.03 퓨처스구단과 1군 구단의 로스터는 분리하지 않으나, 구단은 이를 구분하고 분리해서 운영하는 것은 가능하다.
 
-### Tips
+10.04 이사회는 필요한 때에 따라 이사회가 지정하는 구단을 대상으로 기타 혜택을 부여하고 회수할 수 있다.
 
-Using a `{: .block-tip}` attribute:
+10.05 모든 구단은 신인이나 한 시즌 이상 활동이 없었던 선수를 영입할 때에는 영입 후 7일 간은 퓨처스리그 경기만 참여시킬 수 있다.
 
-```markdown
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
-```
+10.06 경기는 특수한 상황을 제외하고, 낮 경기로 편성하여야한다.
 
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
+10.07 경기 인원 부족, 경험 재활 등 타당한 목적이 있는 경우를 제외하고는 1군 선수단을 기용하지 않는다.
 
-### Warnings
+10.08 퓨처스 구단은 신인이나 재정비 기타 퓨처스리그에서의 활동을 우선으로 하는 선수들을 우선적으로 기용하여야한다.
 
-Using a `{: .block-warning}` attribute:
+10.09 퓨처스 구단의 감독이나 코치는 경기 인원부족과 같은 경기 진행이 어려운 경우를 제외하고는 출전을 제한한다.
 
-```markdown
-> ##### WARNING
->
-> Be sure that you're familiar with things like async/await and object destructuring
-> before continuing, as we'll be making use of features like these.
-{: .block-warning }
-```
+10.10 1군 구단의 감독이 퓨처스 구단의 감독을 임명하거나 해임할 수 있다.
 
-> ##### WARNING
->
-> Be sure that you're familiar with things like async/await and object destructuring
-> before continuing, as we'll be making use of features like these.
-{: .block-warning }
-
-### Dangers
-
-Using a `{: .block-danger}` attribute:
-
-```markdown
-> ##### DANGER
->
-> You cannot delete an ephemeral message.
-{: .block-danger }
-```
-
-> ##### DANGER
->
-> You cannot delete an ephemeral message.
-{: .block-danger }
-
-[1]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
-[2]: https://kramdown.gettalong.org/quickref.html#block-attributes
+10.11 퓨처스 감독은 퓨처스 코치를 임명하거나 해임할 수 있으나, 1군 구단의 감독이 우선적으로 인사권을 가질 수 있다. 
