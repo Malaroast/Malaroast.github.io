@@ -8,9 +8,8 @@
 ## 이 공간은 무엇인가요?
 
 이 사이트는 RBCL이라는 로블록스 야구 리그의 규정을 사용자들이 쉽게 찾아볼 수 있도록 신설한 사이트입니다.
-RBCL 야구 리그는 [https://www.roblox.com/ko/communities/34886504/RBC-League#!/about](https://www.roblox.com/ko/communities/34886504/RBC-League#!/about) 
+RBCL 야구 리그는 https://www.roblox.com/ko/communities/34886504/RBC-League#!/about
 https://discord.gg/GHn4aS4fqm 에서 만나보실 수 있습니다.
-
 
 ## 규정 문의
 
@@ -19,5 +18,4 @@ https://discord.gg/GHn4aS4fqm 에서 만나보실 수 있습니다.
 
 ## 규정 전문
 이 규정은 2025년 7월 1일부터 유효한 규정으로써, RBCL 리그의 운영방침과 경기진행 등을 위해 신설되었습니다. <br>
-규정들은 신설· 개정· 삭제할 수 있으며 이사진은 이를 유저들에게 공고하고 알려야하며 규정을 통해 모든 유저들은 공정하고 상호존중과 깨끗하고 <br>
- 한국 로블록스 야구의 선구자가 되고자 노력해야합니다.
+규정들은 신설· 개정· 삭제할 수 있으며 이사진은 이를 유저들에게 공고하고 알려야하며 규정을 통해 모든 유저들은 공정하고 상호존중과 깨끗하고 한국 로블록스 야구의 선구자가 되고자 노력해야합니다.
